@@ -6,7 +6,7 @@ nume(n),
 prenume(p),
 ziDeNastere(ziDeNastere)
 {
-    //this->ziDeNastere = ziDeNastere;
+
 }
 
 Persoana::~Persoana()
