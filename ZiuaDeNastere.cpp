@@ -5,9 +5,7 @@ an(an),
 zi(zi),
 luna(luna)
 {
-    this->an = an;
-    this->zi = zi;
-    this->luna = luna;
+
 }
 
 ZiuaDeNastere::~ZiuaDeNastere()
